@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akashpatil05/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/akashpatil05/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/akashpatil05/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/akashpatil05/leetcode/tree/master/1929-concatenation-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akashpatil05/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akashpatil05/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akashpatil05/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/akashpatil05/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/akashpatil05/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
