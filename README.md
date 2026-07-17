@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akashpatil05/leetcode/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akashpatil05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/akashpatil05/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akashpatil05/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1288-remove-covered-intervals](https://github.com/akashpatil05/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akashpatil05/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashpatil05/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/akashpatil05/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akashpatil05/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/akashpatil05/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akashpatil05/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akashpatil05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/akashpatil05/leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/akashpatil05/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akashpatil05/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akashpatil05/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
