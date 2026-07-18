@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashpatil05/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akashpatil05/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashpatil05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akashpatil05/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akashpatil05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -168,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akashpatil05/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashpatil05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akashpatil05/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akashpatil05/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akashpatil05/leetcode/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akashpatil05/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
