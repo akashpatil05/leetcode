@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/akashpatil05/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akashpatil05/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akashpatil05/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akashpatil05/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akashpatil05/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akashpatil05/leetcode/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akashpatil05/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akashpatil05/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akashpatil05/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akashpatil05/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akashpatil05/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/akashpatil05/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
