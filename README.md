@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akashpatil05/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akashpatil05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akashpatil05/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akashpatil05/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akashpatil05/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akashpatil05/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akashpatil05/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akashpatil05/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpatil05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akashpatil05/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akashpatil05/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akashpatil05/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/akashpatil05/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akashpatil05/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akashpatil05/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akashpatil05/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
