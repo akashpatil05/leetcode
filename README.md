@@ -256,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akashpatil05/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/akashpatil05/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/akashpatil05/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
