@@ -1,8 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        mp = {}
-        for i,num in enumerate(nums):
-            diff = target - num
-            if(diff in mp):
-                return [mp[diff],i]    
-            mp[num] = i
+        mp= {}
+        for i,nums in enumerate(nums):
+            rem = target - nums
+            if rem in mp:
+                return [mp[rem],i]
+            
+            mp[nums] = i
