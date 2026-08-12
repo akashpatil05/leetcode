@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akashpatil05/leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/akashpatil05/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akashpatil05/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akashpatil05/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akashpatil05/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/akashpatil05/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akashpatil05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/akashpatil05/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akashpatil05/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashpatil05/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/akashpatil05/leetcode/tree/master/0143-reorder-list) |
