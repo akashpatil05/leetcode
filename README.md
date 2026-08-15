@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akashpatil05/leetcode/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/akashpatil05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/akashpatil05/leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/akashpatil05/leetcode/tree/master/0881-boats-to-save-people) |
 | [1140-stone-game-ii](https://github.com/akashpatil05/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/akashpatil05/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/akashpatil05/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akashpatil05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akashpatil05/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akashpatil05/leetcode/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/akashpatil05/leetcode/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/akashpatil05/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/akashpatil05/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashpatil05/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashpatil05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/akashpatil05/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/akashpatil05/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/akashpatil05/leetcode/tree/master/0881-boats-to-save-people) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akashpatil05/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akashpatil05/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akashpatil05/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akashpatil05/leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/akashpatil05/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akashpatil05/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akashpatil05/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akashpatil05/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/akashpatil05/leetcode/tree/master/1510-stone-game-iv) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akashpatil05/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
