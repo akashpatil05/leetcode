@@ -378,4 +378,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akashpatil05/leetcode/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akashpatil05/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/akashpatil05/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
