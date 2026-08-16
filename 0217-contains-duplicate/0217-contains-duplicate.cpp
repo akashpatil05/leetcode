@@ -4,11 +4,9 @@ public:
         unordered_set<int> st;
         for(int x : nums){
             if(st.find(x) != st.end()){
-                return true;
+               return true;
             }
-            else{
-                st.insert(x);
-            }
+            st.insert(x);
         }
         return false;
     }
