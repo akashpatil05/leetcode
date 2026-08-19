@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/akashpatil05/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akashpatil05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akashpatil05/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/akashpatil05/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akashpatil05/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akashpatil05/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akashpatil05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akashpatil05/leetcode/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/akashpatil05/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akashpatil05/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/akashpatil05/leetcode/tree/master/1140-stone-game-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akashpatil05/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/akashpatil05/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akashpatil05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/akashpatil05/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
