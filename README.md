@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashpatil05/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akashpatil05/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akashpatil05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akashpatil05/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akashpatil05/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akashpatil05/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akashpatil05/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akashpatil05/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akashpatil05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/akashpatil05/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akashpatil05/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akashpatil05/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akashpatil05/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/akashpatil05/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akashpatil05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akashpatil05/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akashpatil05/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akashpatil05/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashpatil05/leetcode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akashpatil05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
