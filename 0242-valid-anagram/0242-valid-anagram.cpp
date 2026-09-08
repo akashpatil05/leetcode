@@ -6,8 +6,8 @@ public:
     }
     unordered_map<char,int> mp;
     for(int i = 0; i<s.length(); i++){
-        mp[s[i] - 'a' ]++;
-        mp[t[i] - 'a']--;
+        mp[s[i]]++;
+        mp[t[i]]--;
     }
     for(auto x : mp){
         if(x.second!=0){
