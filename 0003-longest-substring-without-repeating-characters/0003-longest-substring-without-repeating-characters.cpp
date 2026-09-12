@@ -4,18 +4,18 @@ public:
         unordered_map<char, int> mp;
         int left = 0;
         int count = 0;
-        int ans = INT_MIN;
-        for(int right = 0; right<=s.length(); right++){
+        int ans = 0;
+        for(int right = 0; right<s.length(); right++){
             mp[s[right]]++;
-            count = right - left;
-            ans = max(ans,count);
 
             while(mp[s[right]] >1){
                 mp[s[left]]--;
                 left++;
-                count = right - left;
+                count = right - left +1;
                 ans = max(ans, count);
             }
+            count = right - left +1;
+            ans = max(ans,count);
         }
         return ans;
     }
